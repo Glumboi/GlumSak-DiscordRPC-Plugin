@@ -22,7 +22,7 @@ namespace DiscordRPCPlugin
             //Your custom code here, you can also use WindowsForms with this (WPF might be possible too)
             RPC rPC = new RPC();
             rPC.Init();
-            rPC.UpdatePresence("Doing things in GlumSak", "GlumSak", "big", "small", "GlumSak by Glumboi");
+            rPC.UpdatePresence((string)args[1], (string)args[2], (string)args[3], (string)args[4], (string)args[5]);
 
             exitCode = 0;
             return exitCode;
