@@ -2,7 +2,7 @@
 
 namespace DiscordRPCPlugin
 {
-    internal class RPC
+    internal class Rpc
     {
         public DiscordRpcClient client;
         private bool initalized = false;
@@ -20,7 +20,7 @@ namespace DiscordRPCPlugin
             }
             else
             {
-                client.SetPresence(new DiscordRPC.RichPresence()
+                client.SetPresence(new RichPresence()
                 {
                     Details = details,
                     State = state,

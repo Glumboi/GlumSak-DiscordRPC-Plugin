@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DiscordRPCPlugin")]
+[assembly: AssemblyTitle("DiscordRPC")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DiscordRPCPlugin")]
+[assembly: AssemblyProduct("DiscordRPC")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dd444c8e-5304-446c-9c53-41bdfb9c49a7")]
+[assembly: Guid("872fd927-62a7-45a0-b2b2-ab653aad9e45")]
 
 // Version information for an assembly consists of the following four values:
 //
